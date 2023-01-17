@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mufarooq
+- 👋 Hi, I’m @iammufarooq
   - 👀 I’m interested in data analytics, manufacturing systems, tribology, process smartification and optimization, and research and development. 
   - ✨ I’m currently working on data analysis and software development for SKF Research and Technology Development, Netherlands.
   - 🌱 I’m currently learning signal processing and statistical/machine learning using MATLAB. 
